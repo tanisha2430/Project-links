@@ -4,7 +4,7 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50 p-6 flex flex-col items-center font-sans">
       {/* Logo */}
-      <img src="/public/logo.png" alt="Company Logo" className="h-20 mb-4" />
+      <img src="logo.png" alt="Company Logo" className="h-20 mb-4" />
 
       {/* Company Name */}
       <h1 className="text-3xl font-bold text-gray-800 mb-2">Datman Ltd</h1>
