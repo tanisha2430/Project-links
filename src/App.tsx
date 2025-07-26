@@ -66,9 +66,9 @@ const App: React.FC = () => {
         </h2>
         <div className="aspect-w-16 aspect-h-9 w-full">
           <iframe
-            src="https://www.youtube.com/watch?v=BSJa1UytM8w&list=RDBSJa1UytM8w&start_radio=1"
+            src="https://www.youtube.com/embed/imoSe6gBVLY"
             title="Project Video"
-            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
             className="w-full h-64 rounded-md"
           ></iframe>
